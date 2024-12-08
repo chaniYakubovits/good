@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\web\\API\\git\\gooood\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\controlers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\controlers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\repositories\\adorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\adorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\taskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\logger\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\logger\\iloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\taskandattechment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\taskandattechment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\itasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\repositories\\iadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\iadorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\repositories\\tasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\tasksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\logger\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\logger\\loggerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\logger\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\logger\\fileloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\logger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\logger1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\logger\\loggerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\logger\\loggerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|m:\\web\\api\\git\\gooood\\ex2\\services\\logger\\consoleloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D6289A3-ED7C-46BB-A7C1-576E4C18A6C0}|ex2\\ex2.csproj|solutionrelative:ex2\\services\\logger\\consoleloggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskAndAttechment.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\TaskAndAttechment.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\TaskAndAttechment.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\TaskAndAttechment.cs",
+              "RelativeToolTip": "ex2\\Models\\TaskAndAttechment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:33:26.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITasksRepository.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\ITasksRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\ITasksRepository.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\ITasksRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\ITasksRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:46:55.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TasksContext.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\TasksContext.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\TasksContext.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\TasksContext.cs",
+              "RelativeToolTip": "ex2\\Models\\TasksContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:54:07.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\appsettings.json",
+              "RelativeDocumentMoniker": "ex2\\appsettings.json",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\appsettings.json",
+              "RelativeToolTip": "ex2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T12:56:50.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ex2\\appsettings.Development.json",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\appsettings.Development.json",
+              "RelativeToolTip": "ex2\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T09:23:42.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoggerFactory.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\LoggerFactory.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\Logger\\LoggerFactory.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\LoggerFactory.cs",
+              "RelativeToolTip": "ex2\\Services\\Logger\\LoggerFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Program.cs",
+              "RelativeDocumentMoniker": "ex2\\Program.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Program.cs",
+              "RelativeToolTip": "ex2\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:54:37.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TasksServices.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\TasksServices.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\TasksServices.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\TasksServices.cs",
+              "RelativeToolTip": "ex2\\Services\\TasksServices.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwDEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:48:13.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TasksRepository.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\TasksRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\TasksRepository.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\TasksRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\TasksRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCQAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:11:38.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdoRepository.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\AdoRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\AdoRepository.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\AdoRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\AdoRepository.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwEkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:21:20.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Controlers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ex2\\Controlers\\TasksController.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Controlers\\TasksController.cs",
+              "RelativeToolTip": "ex2\\Controlers\\TasksController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAmwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:08:37.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdoRepository.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\IAdoRepository.cs",
+              "RelativeDocumentMoniker": "ex2\\Repositories\\IAdoRepository.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Repositories\\IAdoRepository.cs",
+              "RelativeToolTip": "ex2\\Repositories\\IAdoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:26:27.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Attachment.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Attachment.cs",
+              "RelativeToolTip": "ex2\\Models\\Attachment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T14:21:08.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Tasks.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Tasks.cs",
+              "RelativeToolTip": "ex2\\Models\\Tasks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:38:19.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FileLoggerService.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\FileLoggerService.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\Logger\\FileLoggerService.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\FileLoggerService.cs",
+              "RelativeToolTip": "ex2\\Services\\Logger\\FileLoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:07:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoggerData.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\LoggerData.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\Logger\\LoggerData.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\LoggerData.cs",
+              "RelativeToolTip": "ex2\\Services\\Logger\\LoggerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:56:16.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Logger1.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Logger1.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Logger1.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Logger1.cs",
+              "RelativeToolTip": "ex2\\Models\\Logger1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:53:25.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoggerService.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\ILoggerService.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\Logger\\ILoggerService.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\ILoggerService.cs",
+              "RelativeToolTip": "ex2\\Services\\Logger\\ILoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:07:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConsoleLoggerService.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\ConsoleLoggerService.cs",
+              "RelativeDocumentMoniker": "ex2\\Services\\Logger\\ConsoleLoggerService.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Services\\Logger\\ConsoleLoggerService.cs",
+              "RelativeToolTip": "ex2\\Services\\Logger\\ConsoleLoggerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:07:57.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Project.cs",
+              "DocumentMoniker": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ex2\\Models\\Project.cs",
+              "ToolTip": "M:\\web\\API\\git\\gooood\\ex2\\Models\\Project.cs",
+              "RelativeToolTip": "ex2\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:53:51.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
